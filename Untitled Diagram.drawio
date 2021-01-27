@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-27T16:11:53.993Z" agent="5.0 (Windows)" etag="L7KSjpb46ZVswZ20Ctxv" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-27T16:28:15.485Z" agent="5.0 (Windows)" etag="n1ZmCm8Gnafu_Cber9c5" version="14.2.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1703" dy="720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -156,6 +156,14 @@
         </mxCell>
         <mxCell id="l2v9gZ2WLSmLGQVCRr6r-23" value="selesai" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#E1D5E7;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="60" y="1100" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="l2v9gZ2WLSmLGQVCRr6r-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="l2v9gZ2WLSmLGQVCRr6r-27" target="l2v9gZ2WLSmLGQVCRr6r-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="230" y="1270" />
+              <mxPoint x="230" y="820" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="l2v9gZ2WLSmLGQVCRr6r-27" value="Buku ebook" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#E1D5E7;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="750" y="1250" width="150" height="40" as="geometry" />
