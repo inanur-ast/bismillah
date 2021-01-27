@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-01-27T16:11:19.097Z" agent="5.0 (Windows)" etag="vSkgabN0-7JC-DRKMa9R" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-27T16:11:53.993Z" agent="5.0 (Windows)" etag="L7KSjpb46ZVswZ20Ctxv" version="14.2.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1703" dy="720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="G6_0zJQFT2wZ6HUVoitr-0" value="DIAGRAM APLIKASI O&#39;BOOKS" style="text;html=1;strokeColor=#E6D0DE;fillColor=#E1D5E7;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="240" y="20" width="280" height="20" as="geometry" />
+          <mxGeometry x="370" y="20" width="280" height="20" as="geometry" />
         </mxCell>
         <mxCell id="G6_0zJQFT2wZ6HUVoitr-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="G6_0zJQFT2wZ6HUVoitr-2" target="G6_0zJQFT2wZ6HUVoitr-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
