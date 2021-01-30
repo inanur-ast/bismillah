@@ -1,1 +1,55 @@
-<mxfile host="app.diagrams.net" modified="2021-01-30T04:26:42.399Z" agent="5.0 (Windows)" version="14.2.7" etag="wrpIaxpCW5KJj4kaRZMG" type="github"><diagram id="ZWmK5Tws61wm8Nxn4N8Q">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-01-30T05:09:06.092Z" agent="5.0 (Windows)" etag="ecosN6kq-78R-sUUUaK1" version="14.2.7" type="github">
+  <diagram id="ZWmK5Tws61wm8Nxn4N8Q" name="Page-1">
+    <mxGraphModel dx="1022" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="EVHR5OZLsBV4nY1zHX9c-12" value="collaboration" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="240" y="10" width="430" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="EVHR5OZLsBV4nY1zHX9c-1" value="whiteboard jamboard" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="170" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="EVHR5OZLsBV4nY1zHX9c-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EVHR5OZLsBV4nY1zHX9c-3" target="EVHR5OZLsBV4nY1zHX9c-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EVHR5OZLsBV4nY1zHX9c-3" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="50" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EVHR5OZLsBV4nY1zHX9c-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EVHR5OZLsBV4nY1zHX9c-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EVHR5OZLsBV4nY1zHX9c-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EVHR5OZLsBV4nY1zHX9c-4" target="EVHR5OZLsBV4nY1zHX9c-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EVHR5OZLsBV4nY1zHX9c-4" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="310" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EVHR5OZLsBV4nY1zHX9c-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EVHR5OZLsBV4nY1zHX9c-5" target="EVHR5OZLsBV4nY1zHX9c-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="590" y="340" />
+              <mxPoint x="590" y="80" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EVHR5OZLsBV4nY1zHX9c-5" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="310" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EVHR5OZLsBV4nY1zHX9c-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EVHR5OZLsBV4nY1zHX9c-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EVHR5OZLsBV4nY1zHX9c-6" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="50" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EVHR5OZLsBV4nY1zHX9c-19" value="teknologi canvas yang digunakan dalam jamboard , user dapat melakukan pekerjaan dalam satu waktu secara bersama-sama/ berkolaborasi yang direpresentasikan pada canvas html yang tersedia pada jamboard. user dapat mengambil gambar dari penelusuran Google dengan cepat, menyimpan &lt;br/&gt;pekerjaan ke cloud secara otomatis, menggunakan fitur pengenalan bentuk &lt;br/&gt;dan tulisan tangan yang mudah dibaca, serta menggambar dengan stilus dan&lt;br/&gt; menghapus dengan jari – layaknya papan tulis biasa." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="450" width="500" height="150" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
